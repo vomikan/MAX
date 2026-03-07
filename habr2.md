@@ -227,6 +227,7 @@ MAX за неполный год достиг:
 - [STANDOFF 365](https://bugbounty.standoff365.com/programs/max) — Bug Bounty программа MAX
 - TASS, Ведомости, РБК (ноябрь-декабрь 2025) — информация о блокировке WhatsApp
 - Роскомнадзор (официальные заявления, 28 ноября 2025)
+- [Dmitry Sklyarov – Wikipedia](https://en.wikipedia.org/wiki/Dmitry_Sklyarov?spm=a2ty_o01.29997173.0.0.38395171i77uiM) — статья о деле Дмитрия Склярова (2001), обвинение по DMCA в США
 
 ---
 
